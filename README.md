@@ -1,8 +1,8 @@
 <div style="background-image: url('img_girl.jpg');">
   <p align="center"> <samp>
-  Hey there, I'm Madhav!
+  Hey there, I'm Madhav! <br/>
 I’m a graduate CS student currently concentrated on Machine Learning and Deep Learning.
-In the mean time, I'm working on developing front-end projects and
+<br/>In the mean time, I'm working on developing front-end projects and
 looking to contribute to other open source projects. 
 </p>
 <samp/>
