@@ -1,5 +1,7 @@
-## Hi there 👋
-
+Hey there, I'm Madhav!
+I’m a graduate cs student currently concentrated on Machine Learning and Deep Learning.
+In the mean time, I'm working on developing front-end projects and
+looking to contribute to other open source projects. 
 <!--
 **MadhavaY/MadhavaY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
