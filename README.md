@@ -8,14 +8,14 @@ looking to contribute to other open source projects.
 <samp/>
 <p align="center">
   <samp>
-  <span>HTML</span>
-  <span>CSS</span>
-  <span>JS</span>
-    <span>React</span> 
+  <span>Python</span>
+  <span>Java</span>
+  <span>JavaScript</span>
+  <span>ReactJS</span> 
   <span>SQL</span>
   <span>Flask</span>
   <br/>
-    <span>ML- Pandas, NumPy, Scikit-Learn, Matplotlib, Pytorch, Keras</span>
+    <span>ML- Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Pytorch, Keras, Tensorflow</span>
 </samp>
 </p>
 </div>
